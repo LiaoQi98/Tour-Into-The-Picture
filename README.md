@@ -1,5 +1,5 @@
 # Application "Tour-Into-The-Picture" Manual
-
+![image](https://github.com/LiaoQi98/TourIntoThePicture/assets/108174052/0d6cd417-101d-4681-bc93-1289ace3e61d)
 * Step 1: Please open the application, select a picture on the left side, the picture can be previewed in the middle. (Pictures 1-6 are system pictures, if you want to use other pictures, please select "your image”, and then select your picture).
     * ![image](https://github.com/LiaoQi98/TourIntoThePicture/assets/108174052/9ffd37d3-72a4-4ddd-b153-1c97ca7e179c)
     * Then please select whether you want to skip the step of cutting out the foreground.
